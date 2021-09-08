@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="71458" started-at="2021-09-08T17:20:03Z" finished-at="2021-09-08T17:21:15Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="71458" started-at="2021-09-08T17:20:03Z" finished-at="2021-09-08T17:21:15Z">
+      <class name="com.webapp.SeleniumTest.AmazonTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.webapp.SeleniumTest.AmazonTest@6f3b5d16]" name="beforeTest" is-config="true" duration-ms="3575" started-at="2021-09-08T17:20:03Z" finished-at="2021-09-08T17:20:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.webapp.SeleniumTest.GoogleTest@3b938003]" name="beforeTest" is-config="true" duration-ms="2520" started-at="2021-09-08T17:20:07Z" finished-at="2021-09-08T17:20:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testJbkTitle()[pri:0, instance:com.webapp.SeleniumTest.AmazonTest@6f3b5d16]" name="testJbkTitle" duration-ms="13875" started-at="2021-09-08T17:20:15Z" finished-at="2021-09-08T17:20:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testJbkTitle -->
+        <test-method status="PASS" signature="testJbkTitleInvalid()[pri:1, instance:com.webapp.SeleniumTest.AmazonTest@6f3b5d16]" name="testJbkTitleInvalid" duration-ms="18655" started-at="2021-09-08T17:20:29Z" finished-at="2021-09-08T17:20:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testJbkTitleInvalid -->
+        <test-method status="PASS" signature="testJbkTitlesubmit()[pri:2, instance:com.webapp.SeleniumTest.AmazonTest@6f3b5d16]" name="testJbkTitlesubmit" duration-ms="4482" started-at="2021-09-08T17:20:47Z" finished-at="2021-09-08T17:20:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testJbkTitlesubmit -->
+        <test-method status="PASS" signature="testJbkTitlecheck()[pri:3, instance:com.webapp.SeleniumTest.AmazonTest@6f3b5d16]" name="testJbkTitlecheck" duration-ms="10928" started-at="2021-09-08T17:20:52Z" finished-at="2021-09-08T17:21:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testJbkTitlecheck -->
+        <test-method status="PASS" signature="testJbkTitlescroll()[pri:3, instance:com.webapp.SeleniumTest.AmazonTest@6f3b5d16]" name="testJbkTitlescroll" duration-ms="10223" started-at="2021-09-08T17:21:03Z" finished-at="2021-09-08T17:21:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testJbkTitlescroll -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.webapp.SeleniumTest.AmazonTest@6f3b5d16]" name="afterTest" is-config="true" duration-ms="932" started-at="2021-09-08T17:21:13Z" finished-at="2021-09-08T17:21:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.webapp.SeleniumTest.GoogleTest@3b938003]" name="afterTest" is-config="true" duration-ms="819" started-at="2021-09-08T17:21:14Z" finished-at="2021-09-08T17:21:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.webapp.SeleniumTest.AmazonTest -->
+      <class name="com.webapp.SeleniumTest.GoogleTest">
+        <test-method status="PASS" signature="testJbkTitle()[pri:0, instance:com.webapp.SeleniumTest.GoogleTest@3b938003]" name="testJbkTitle" duration-ms="5388" started-at="2021-09-08T17:20:09Z" finished-at="2021-09-08T17:20:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testJbkTitle -->
+      </class> <!-- com.webapp.SeleniumTest.GoogleTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
